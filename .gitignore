@@ -1,4 +1,5 @@
 .venv-ns/
+.venv
 NS_Data/
 combined.csv
 combined_data.csv
