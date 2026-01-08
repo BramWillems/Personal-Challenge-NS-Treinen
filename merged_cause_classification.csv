@@ -1,0 +1,100 @@
+cause,frequency,category
+broken down train,50103,Rolling Stock Failure
+signal failure,13308,Signalling & Points
+points failure,11652,Signalling & Points
+collision,9132,Track Obstruction
+stranded train,7008,Misc
+person hit by a train,6945,Incidents & Safety
+an emergency call,5748,Incidents & Safety
+repair works,4734,Operational
+damaged overhead wires,3990,Infrastructure
+damaged railway bridge,3756,Rolling Stock Failure
+person on the railway track,3543,Track Obstruction
+signalling and points failure,3153,Signalling & Points
+an earlier disruption,3033,Operational
+level crossing failure,2865,Signalling & Points
+disruption elsewhere,2715,Operational
+power failure,2598,Unclassified
+problems with the rolling stock,2520,Rolling Stock Failure
+signal and level crossing failure,2406,Signalling & Points
+defective railway track,2307,Rolling Stock Failure
+over-running engineering works,2085,Operational
+police action,1590,Incidents & Safety
+staffing problems,1416,Operational
+logistical limitations,1347,Unclassified
+technical investigation,1173,Rolling Stock Failure
+an animal on the railway track,933,Track Obstruction
+railway problems abroad,909,International
+tree on the track,885,Infrastructure
+weather circumstances,876,Infrastructure
+cause yet unknown,807,Operational
+strike,717,Strikes
+fire alarm,717,Incidents & Safety
+deployment of the fire department,714,Incidents & Safety
+people on the railway track,663,Track Obstruction
+unexpected engineering works,636,Operational
+problem in a tunnel,621,Misc
+collision with a vehicle,570,Track Obstruction
+,555,Unclassified
+engineering works,525,Operational
+multiple disruptions,510,Operational
+an obstruction on the line,510,Track Obstruction
+garbage on the railway track,504,Track Obstruction
+slippery railway tracks,486,Infrastructure
+copper theft,480,Unclassified
+defective point,477,Rolling Stock Failure
+lightning strike,447,Unclassified
+an object in the overhead wires,375,Infrastructure
+system failure,375,Rolling Stock Failure
+defective trains,357,Rolling Stock Failure
+person along the track,336,Track Obstruction
+vehicle on the railway track,291,Track Obstruction
+strike of Arriva staff,255,Strikes
+lineside fire,249,Unclassified
+hindrance on the railway,246,Misc
+strike at ProRail,198,Strikes
+strong winds on the high speed line,180,Infrastructure
+large signalling and points failure,162,Signalling & Points
+staff strikes abroad,144,Strikes
+broken level crossing,138,Signalling & Points
+damaged level crossing,135,Signalling & Points
+an amended timetable,132,Operational
+overhead wires covered with frost,129,Infrastructure
+police investigation,123,Incidents & Safety
+strike of Keolis staff,111,Strikes
+vandalism,87,Incidents & Safety
+dismantling a bomb from the Second World War,84,Incidents & Safety
+collision with an animal,84,Track Obstruction
+people along the railway,84,Track Obstruction
+emergency repairs,78,Incidents & Safety
+large crowds,66,Misc
+engineering works elsewhere,60,Operational
+flooding,54,Infrastructure
+excessive delays,33,Operational
+the expected weather conditions,33,Infrastructure
+strike of Connexxion staff,30,Strikes
+shortage of train traffic controllers,30,Operational
+strike of Breng staff,30,Strikes
+fire in a train,27,Rolling Stock Failure
+because of a change in the timetable,21,Operational
+strike of Qbuzz staff,18,Strikes
+ice formation on the overhead wires,18,Infrastructure
+for security reasons,18,Incidents & Safety
+service disruption,15,Operational
+problems with the signalling system,15,Signalling & Points
+shortage of NS staff because of COVID-19,15,Operational
+derailed train,12,Rolling Stock Failure
+storm damage,12,Infrastructure
+an event,9,Misc
+necessary adjustment to the timetable,9,Operational
+the use of alternative train units,6,Rolling Stock Failure
+deployment of security staff,6,Incidents & Safety
+smoke in a train,6,Rolling Stock Failure
+derailed cargo train,6,Rolling Stock Failure
+the construction of a new railway,6,Construction
+ice skating in the Thialf stadium,3,Misc
+large delays abroad,3,International
+the construction of a tunnel,3,Construction
+pilgrimage,3,Unclassified
+snow,3,Infrastructure
+cause_en,2,Misc
