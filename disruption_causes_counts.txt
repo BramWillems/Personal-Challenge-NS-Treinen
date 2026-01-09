@@ -1,99 +1,98 @@
-broken down train	50103
-signal failure	13308
-points failure	11652
-collision	9132
-stranded train	7008
-person hit by a train	6945
-an emergency call	5748
-repair works	4734
-damaged overhead wires	3990
-damaged railway bridge	3756
-person on the railway track	3543
-signalling and points failure	3153
-an earlier disruption	3033
-level crossing failure	2865
-disruption elsewhere	2715
-power failure	2598
-problems with the rolling stock	2520
-signal and level crossing failure	2406
-defective railway track	2307
-over-running engineering works	2085
-police action	1590
-staffing problems	1416
-logistical limitations	1347
-technical investigation	1173
-an animal on the railway track	933
-railway problems abroad	909
-tree on the track	885
-weather circumstances	876
-cause yet unknown	807
-strike	717
-fire alarm	717
-deployment of the fire department	714
-people on the railway track	663
-unexpected engineering works	636
-problem in a tunnel	621
-collision with a vehicle	570
-nan	555
-engineering works	525
-multiple disruptions	510
-an obstruction on the line	510
-garbage on the railway track	504
-slippery railway tracks	486
-copper theft	480
-defective point	477
-lightning strike	447
-an object in the overhead wires	375
-system failure	375
-defective trains	357
-person along the track	336
-vehicle on the railway track	291
-strike of Arriva staff	255
-lineside fire	249
-hindrance on the railway	246
-strike at ProRail	198
-strong winds on the high speed line	180
-large signalling and points failure	162
-staff strikes abroad	144
-broken level crossing	138
-damaged level crossing	135
-an amended timetable	132
-overhead wires covered with frost	129
-police investigation	123
-strike of Keolis staff	111
-vandalism	87
-dismantling a bomb from the Second World War	84
-collision with an animal	84
-people along the railway	84
-emergency repairs	78
-large crowds	66
-engineering works elsewhere	60
-flooding	54
-excessive delays	33
-the expected weather conditions	33
-strike of Connexxion staff	30
-shortage of train traffic controllers	30
-strike of Breng staff	30
-fire in a train	27
-because of a change in the timetable	21
-strike of Qbuzz staff	18
-ice formation on the overhead wires	18
-for security reasons	18
-service disruption	15
-problems with the signalling system	15
-shortage of NS staff because of COVID-19	15
-derailed train	12
-storm damage	12
-an event	9
-necessary adjustment to the timetable	9
-the use of alternative train units	6
-deployment of security staff	6
-smoke in a train	6
-derailed cargo train	6
-the construction of a new railway	6
-ice skating in the Thialf stadium	3
-large delays abroad	3
-the construction of a tunnel	3
-pilgrimage	3
-snow	3
-cause_en	2
+broken down train	16701
+signal failure	4436
+points failure	3884
+collision	3044
+stranded train	2336
+person hit by a train	2315
+an emergency call	1916
+repair works	1578
+damaged overhead wires	1330
+damaged railway bridge	1252
+person on the railway track	1181
+signalling and points failure	1051
+an earlier disruption	1011
+level crossing failure	955
+disruption elsewhere	905
+power failure	866
+problems with the rolling stock	840
+signal and level crossing failure	802
+defective railway track	769
+over-running engineering works	695
+police action	530
+staffing problems	472
+logistical limitations	449
+technical investigation	391
+an animal on the railway track	311
+railway problems abroad	303
+tree on the track	295
+weather circumstances	292
+cause yet unknown	269
+strike	239
+fire alarm	239
+deployment of the fire department	238
+people on the railway track	221
+unexpected engineering works	212
+problem in a tunnel	207
+collision with a vehicle	190
+nan	185
+engineering works	175
+an obstruction on the line	170
+multiple disruptions	170
+garbage on the railway track	168
+slippery railway tracks	162
+copper theft	160
+defective point	159
+lightning strike	149
+an object in the overhead wires	125
+system failure	125
+defective trains	119
+person along the track	112
+vehicle on the railway track	97
+strike of Arriva staff	85
+lineside fire	83
+hindrance on the railway	82
+strike at ProRail	66
+strong winds on the high speed line	60
+large signalling and points failure	54
+staff strikes abroad	48
+broken level crossing	46
+damaged level crossing	45
+an amended timetable	44
+overhead wires covered with frost	43
+police investigation	41
+strike of Keolis staff	37
+vandalism	29
+dismantling a bomb from the Second World War	28
+people along the railway	28
+collision with an animal	28
+emergency repairs	26
+large crowds	22
+engineering works elsewhere	20
+flooding	18
+excessive delays	11
+the expected weather conditions	11
+strike of Connexxion staff	10
+shortage of train traffic controllers	10
+strike of Breng staff	10
+fire in a train	9
+because of a change in the timetable	7
+for security reasons	6
+strike of Qbuzz staff	6
+ice formation on the overhead wires	6
+problems with the signalling system	5
+shortage of NS staff because of COVID-19	5
+service disruption	5
+derailed train	4
+storm damage	4
+an event	3
+necessary adjustment to the timetable	3
+deployment of security staff	2
+the use of alternative train units	2
+the construction of a new railway	2
+derailed cargo train	2
+smoke in a train	2
+large delays abroad	1
+ice skating in the Thialf stadium	1
+the construction of a tunnel	1
+pilgrimage	1
+snow	1
